@@ -1,0 +1,8 @@
+from py_nillion_client import NillionClient
+
+def main():
+    client = NillionClient()
+    print("Nillion Client initialized successfully")
+
+if __name__ == "__main__":
+    main()
